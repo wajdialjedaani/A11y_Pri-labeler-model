@@ -1,0 +1,6 @@
+# !/usr/bin/env python
+import gdown
+
+gdown.download(
+    "assets/pytorch_model.bin",
+)

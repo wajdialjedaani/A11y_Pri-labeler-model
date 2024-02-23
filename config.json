@@ -1,0 +1,10 @@
+{
+    "BERT_MODEL": "bert-base-cased",
+    "PRE_TRAINED_MODEL": "assets/pytorch_model.bin",
+    "CLASS_NAMES": [
+        "Bug",
+        "Imporvement",
+        "New Feature"
+    ],
+    "MAX_SEQUENCE_LEN": 512
+}
